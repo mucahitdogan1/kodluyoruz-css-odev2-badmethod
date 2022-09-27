@@ -1,0 +1,34 @@
+.top-box{
+    width: 1200px;
+    height: 65px;
+    background-color: #EEEEEE;
+    margin-bottom: 2px;
+}
+
+
+.bottom-box-first{
+    width:450px; 
+    height:75px;
+    float: left;
+    margin-left: 72px;
+    background-color:#7EE5DA
+}
+
+.bottom-box-second{
+    float: left;
+    margin-left: 2px;
+    width: 220px; 
+    height: 75px;  
+    background-color:#5acdc1;
+
+}
+
+.bottom-box-third{
+    float: left;
+    margin-left: 2px;
+    width: 527px;
+    height:75px; 
+    background-color:#50b7ac;
+    margin-bottom: 20px;
+
+}
